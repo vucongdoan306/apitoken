@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "AcKWIPYYIxUeFeYJA/inlZfN3GQN8CWP6Fa/PV9HcvI=",
+  "Source": "apitoken",
+  "BasePath": "_content/apitoken",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
